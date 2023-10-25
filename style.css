@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+.intro{
+    background-image: url(https://content.rolex.com/dam/corners/homepage/corners-homepage-banner-xs_datejust-36_det_rolesor-32199_isov2_300_rvb.jpg);
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+
+.history{
+    padding: 5%;
+}
+ 
+/* .p{
+    text-align: center;
+} */
+
+.story{
+    background-color: rgb(184, 181, 181);
+    /* padding-left: 15%;
+    padding-right: 15%; */
+}
+
+.element{
+    padding-left: 15%;
+    padding-right: 14%;
+}
+img:hover{
+    transform: scale(2.0);
+}
+.style{
+/* padding-right: 10%; */
+/* padding-left: 10%; */
+border-color: white;
+
+}
+
+.last{
+    padding-left: 5%;
+    padding-right: 15%;
+}
